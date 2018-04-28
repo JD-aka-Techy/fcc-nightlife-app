@@ -1,0 +1,7 @@
+// AUTH
+export const USER_LOG_IN = 'USER_LOG_IN';
+export const USER_LOG_OUT = 'USER_LOG_OUT';
+
+// LOCATIONS
+export const UPDATE_LOCATIONS = 'UPDATE_LOCATIONS';
+export const REPLACE_LOCATIONS = 'REPLACE_LOCATIONS';

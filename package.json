@@ -1,0 +1,33 @@
+{
+  "name": "fcc-voting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JD-aka-Techy/fcc-voting-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JD-aka-Techy/fcc-voting-app/issues"
+  },
+  "homepage": "https://github.com/JD-aka-Techy/fcc-voting-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.2.0",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.12",
+    "react-google-login": "^3.2.0"
+  },
+  "false": {}
+}
